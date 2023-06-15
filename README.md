@@ -1,6 +1,6 @@
 # eLooM SDK based on ThreadX
 
-![latest tag](https://img.shields.io/github/v/tag/stm32-hotspot/eloomtx-sdk.svg?color=brightgreen
+![latest tag](https://img.shields.io/github/v/tag/stm32-hotspot/eloomtx-sdk.svg?color=brightgreen)
 
 **eLooM SDK** is a collection of embedded applications based on **eLooM** framework and components.
 It demonstrates how to use the eLooM framework providing ready-to-use examples.
@@ -17,9 +17,9 @@ A developer can use the package to explore and learn the features and the potent
 The eLooM SDK has been built on top of eLooM application-level modules called **eLooM components**, that a final user can reuse and extend easily to build up its custom application. 
 The components available are:
 
-- [DPU - Digital Processing Units](Projects\eLooM_Components\DPU\Release_Notes.html)
-- [EMData](Projects\eLooM_Components\EMData\Release_Notes.html)
-- [SensorManager](Projects\eLooM_Components\SensorManager\Release_Notes.html)
+- DPU - Digital Processing Units
+- EMData
+- SensorManager
 
 These application modules adopt state-of-the-art design patterns, and they support natively low-power modes.
 
